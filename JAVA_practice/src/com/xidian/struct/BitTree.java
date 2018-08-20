@@ -2,6 +2,7 @@ package com.xidian.struct;
 
 import java.util.LinkedList;
 
+
 public class BitTree {
 	
 	
