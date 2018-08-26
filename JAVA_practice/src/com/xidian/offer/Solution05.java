@@ -11,7 +11,7 @@ package com.xidian.offer;
 import com.xidian.offer.ListNode;
 import java.util.ArrayList;
 import java.util.Stack;
-public class Solution3 {
+public class Solution05 {
 
 	ArrayList<Integer> arrayList = new ArrayList<Integer>();
 	/**

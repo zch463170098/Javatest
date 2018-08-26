@@ -7,7 +7,7 @@ package com.xidian.offer;
  * 创建时间：2017年10月15日 下午9:19:22
  * 说明：斐波那契数列，要求输入一个整数n，输出斐波那契数列的第n项n《=39。
  */
-public class Solution7 {
+public class Solution09 {
 	/**
 	 * 最普通的方法
 	 * @param n
@@ -47,8 +47,7 @@ public class Solution7 {
 	}
 	
 	public static void main(String [] args){
-		Solution7 solution7 = new Solution7();
-		System.out.println("result:"+solution7.Fibonacci(5));
+		
 		
 	}
 
